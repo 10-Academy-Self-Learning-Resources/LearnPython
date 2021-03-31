@@ -3,6 +3,11 @@ Found on the web, It is said that in today’s world, the ability to code contin
 
 Kids with an eye to their future know that learning to code is important, but figuring out which one to learn can be an intimidating task. Some languages are easier to learn, while others have a wider application. But one language sits right in the sweet spot.With a balance of being both easy to learn and widely used in the real world, we suggest learning Python for kids/youth. This shows that it is very easy to learn Python.
 
+## Importance of Learning Python 
+1. It is the most widely used Programming Language for Data Science
+2. It has a wide and large Community Support so your bugs are always going to have a solution somewhere on the internet
+3. It is easy to learn and provides framework for many different use case
+
 Are you completely new to programming? If not then we presume you will be looking for information about why and how to get started with Python. Fortunately an experienced programmer in any programming language (whatever it may be) can pick up Python very quickly. It's also easy for beginners to use and learn, [so jump in!](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers). 
 
 The link above contains resources for mastering the art of using python programming to create different kinds of applications as well as how to use it for Data Science.
@@ -29,3 +34,18 @@ How good are your Python skills? Test and Training with > 300 hand-picked Python
 
 
 If you are the book type and just want to read on screen and complete exercise then <a href="https://www.w3schools.com/python/python_intro.asp" target='_blank'>check this out</a>. You can also check this resource out, Automate the Boring Stuff with Python - Practical Programming for Total Beginners by Al Sweigart is "written for office workers, students, administrators, and anyone who uses a computer to learn how to code small, practical programs to automate tasks on their computer." You can access the book [here](https://automatetheboringstuff.com/)
+
+## Key Topics
+1. Object Oriented Programming (OOP)
+Another trick in software is to avoid rewriting the software by using a piece that’s already been written, so called component approach which the latest term for this in the most advanced form is what’s called Object Oriented Programming. — Bill Gates.
+
+Python for Data Science is mostly procedural especially when prototyping a solution but when it time to automate process, it is advised to split different aspect of the solution into separate scripts. To do this, the knowledge of OOP will come to a good use. Object-oriented programming (OOP) is a method of structuring a program by bundling related properties and behaviors into individual objects. In this tutorial, you’ll learn the basics of object-oriented programming in Python. 
+
+In [this tutorial](https://realpython.com/python3-object-oriented-programming/), you’ll learn how to:
+<ul>
+  <li>Create a class, which is like a blueprint for creating an object</li>
+  <li>Use classes to create new objects</li>
+  <li>Model systems with class inheritance</li>
+</ul>
+
+[KDNuggets article](https://www.kdnuggets.com/2019/08/object-oriented-programming-data-scientists-estimator.html) about OOP Data Scientist Estimator explains how to use OOP in Data Science Project. Specifically, it explains how to use OOP to create a Linear Regression Model
