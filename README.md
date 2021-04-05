@@ -1,12 +1,18 @@
 # Python Programming
-Found on the web, It is said that in today’s world, the ability to code continues to grow in importance. Coding is no longer the sole domain of computer scientists and programmers, but rather a useful skill to have in any career.
+From the web, It is said that in today’s world, the ability to code continues to grow in importance. Coding is no longer the sole domain of computer scientists and programmers, but rather a useful skill to have in any career.
 
 Kids with an eye to their future know that learning to code is important, but figuring out which one to learn can be an intimidating task. Some languages are easier to learn, while others have a wider application. But one language sits right in the sweet spot.With a balance of being both easy to learn and widely used in the real world, we suggest learning Python for kids/youth. This shows that it is very easy to learn Python.
 
-## Importance of Learning Python 
+## How will I use Python Programming Language in my ML career
+There are lots of modules, libraries, tools to make data pratitioner life easier when they adopt python as their choice in creating ML solutions. You will use python to gather data, prepare the data, visualize the data, build Machine Learning Models, and make ML solutions available to relevant stakeholders via Web application, Dashborad as the case may be. Python Proframming allows you to create end to end solution as a data practitioner. 
+
+## Why is it Important to Learn Python 
 1. It is the most widely used Programming Language for Data Science
 2. It has a wide and large Community Support so your bugs are always going to have a solution somewhere on the internet
 3. It is easy to learn and provides framework for many different use case
+
+## How Python help solve problems
+Python does not specifically solve the problem, it allow you bring your ideas into life by enabling you to programmatically structure your ideas and present it in a mobile, web or embedded system applications.
 
 Are you completely new to programming? If not then we presume you will be looking for information about why and how to get started with Python. Fortunately an experienced programmer in any programming language (whatever it may be) can pick up Python very quickly. It's also easy for beginners to use and learn, [so jump in!](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers). 
 
@@ -30,8 +36,7 @@ which is taught by Datacamp. The time to push forward and develop your Python ch
 
 Then Improve your knowledge with the second part of [Python Data Science Toolbox](https://www.datacamp.com/courses/python-data-science-toolbox-part-2). Here you'll continue to build your Python data science skills. First, you'll learn about iterators, objects you have already encountered in the context of for loops. You'll then learn about list comprehensions, which are extremely handy tools for all data scientists working in Python. You'll end the course by working through a case study in which you'll apply all the techniques you learned in both parts of this course.
 
-How good are your Python skills? Test and Training with > 300 hand-picked Python puzzles [here](https://finxter.com/)
-
+How good are your Python skills? Test and Training with more than 300 hand-picked Python puzzles [here](https://finxter.com/)
 
 If you are the book type and just want to read on screen and complete exercise then <a href="https://www.w3schools.com/python/python_intro.asp" target='_blank'>check this out</a>. You can also check this resource out, Automate the Boring Stuff with Python - Practical Programming for Total Beginners by Al Sweigart is "written for office workers, students, administrators, and anyone who uses a computer to learn how to code small, practical programs to automate tasks on their computer." You can access the book [here](https://automatetheboringstuff.com/)
 
@@ -48,4 +53,9 @@ In [this tutorial](https://realpython.com/python3-object-oriented-programming/),
   <li>Model systems with class inheritance</li>
 </ul>
 
-[KDNuggets article](https://www.kdnuggets.com/2019/08/object-oriented-programming-data-scientists-estimator.html) about OOP Data Scientist Estimator explains how to use OOP in Data Science Project. Specifically, it explains how to use OOP to create a Linear Regression Model
+## What differentiate beginners from experts
+1. Experts write python codes in modules using the OOP approach
+2. Experts include docstrings and comments 
+3. Experts follows the PEP8 standard
+
+[KDNuggets article](https://www.kdnuggets.com/2019/08/object-oriented-programming-data-scientists-estimator.html) on OOP explains how to use the approach in Data Science Project. Specifically, it explains how to use OOP to create a Linear Regression Model which you can easily extend to create any other algorithms
