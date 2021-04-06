@@ -54,8 +54,11 @@ In [this tutorial](https://realpython.com/python3-object-oriented-programming/),
 </ul>
 
 ## What differentiate beginners from experts
-1. Experts write python codes in modules using the OOP approach
-2. Experts include docstrings and comments 
-3. Experts follows the PEP8 standard
+- **Begineers**
+  - Ability to use procedural approach to write codes
+  - use of notebook to create ML models
+- **Experts**
+  - ability to use wrote python codes in OOP approach
+  - adhere to PEP8 guidelines  
 
 [KDNuggets article](https://www.kdnuggets.com/2019/08/object-oriented-programming-data-scientists-estimator.html) on OOP explains how to use the approach in Data Science Project. Specifically, it explains how to use OOP to create a Linear Regression Model which you can easily extend to create any other algorithms
